@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm TheROBOKEDi. Shortly you can call me Kayra or kedi.</h1>
+
+
+
+
 - 🔭 I’m currently working on **Minirise MC**
 
 - 🌱 I’m currently learning **PHP, Postgre SQL and Python**
